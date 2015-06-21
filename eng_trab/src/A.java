@@ -5,6 +5,10 @@ public class A {
 	float A2;
 	String A3;
 	
+	public static float soma(int a, float b){
+		return (a+b);
+	}
+	
 		
 	public int getA1() {
 		return A1;
