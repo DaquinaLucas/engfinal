@@ -3,6 +3,7 @@ public class A {
 
 	int A1;
 	float A2;
+	String A3;
 	
 	public A() {
 		// TODO Auto-generated constructor stub
